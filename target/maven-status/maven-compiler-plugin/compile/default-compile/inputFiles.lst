@@ -1,0 +1,14 @@
+/Users/zhihua19/library-management/src/main/java/com/example/library/controller/ReaderController.java
+/Users/zhihua19/library-management/src/main/java/com/example/library/entity/Reader.java
+/Users/zhihua19/library-management/src/main/java/com/example/library/service/ReaderService.java
+/Users/zhihua19/library-management/src/main/java/com/example/library/entity/Book.java
+/Users/zhihua19/library-management/src/main/java/com/example/library/controller/BorrowController.java
+/Users/zhihua19/library-management/src/main/java/com/example/library/service/BorrowService.java
+/Users/zhihua19/library-management/src/main/java/com/example/library/controller/BookController.java
+/Users/zhihua19/library-management/src/main/java/com/example/library/repository/BorrowRecordRepository.java
+/Users/zhihua19/library-management/src/main/java/com/example/library/LibraryApplication.java
+/Users/zhihua19/library-management/src/main/java/com/example/library/entity/BorrowRecord.java
+/Users/zhihua19/library-management/src/main/java/com/example/library/repository/ReaderRepository.java
+/Users/zhihua19/library-management/src/main/java/com/example/library/service/BookService.java
+/Users/zhihua19/library-management/src/main/java/com/example/library/repository/BookRepository.java
+/Users/zhihua19/library-management/src/main/java/com/example/library/CorsConfig.java
